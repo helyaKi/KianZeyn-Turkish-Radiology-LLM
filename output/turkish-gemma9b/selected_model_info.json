@@ -1,0 +1,8 @@
+{
+  "base_model_key": "turkish-gemma9b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--ytu-ce-cosmos--Turkish-Gemma-9b-T1",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--ytu-ce-cosmos--Turkish-Gemma-9b-T1\\snapshots\\bc2e3064994eefab3c9043ff58c5b3c7cbfc6c40",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\turkish-gemma9b"
+}
