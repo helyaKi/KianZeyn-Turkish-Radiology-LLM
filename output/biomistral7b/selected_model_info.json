@@ -1,0 +1,8 @@
+{
+  "base_model_key": "biomistral7b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--BioMistral--BioMistral-7B",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--BioMistral--BioMistral-7B\\snapshots\\9a11e1ffa817c211cbb52ee1fb312dc6b61b40a5",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\biomistral7b"
+}

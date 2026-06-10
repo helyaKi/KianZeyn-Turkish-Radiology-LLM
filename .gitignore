@@ -1,0 +1,135 @@
+# ============================================================
+# Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ============================================================
+# Virtual environments
+# ============================================================
+venv/
+env/
+ENV/
+.venv/
+.conda/
+conda-meta/
+
+# ============================================================
+# Jupyter Notebook
+# ============================================================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ============================================================
+# IDE / Editor
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Environment / Secrets
+# ============================================================
+.env
+.env.*
+*.env
+secrets.json
+credentials.json
+token.json
+*.pem
+*.key
+
+# ============================================================
+# Hugging Face / Model cache
+# ============================================================
+.cache/
+huggingface/
+models--*/
+unsloth_compiled_cache/
+*/unsloth_compiled_cache/
+
+# ============================================================
+# Project-specific ignored folders
+# ============================================================
+
+# Dataset çıktıları
+dataset/cleaned_dataset_outputs/
+
+# Dokümanlar
+dokumanlar/
+
+# Kullanılmayan / eski kodlar
+eski_kod/
+hoca_kodlar/
+ıvır zıvır/
+ivır zıvır/
+**/eski_kod/
+**/hoca_kodlar/
+**/ıvır zıvır/
+**/ivır zıvır/
+
+# Kullanılmayan çıktılar
+kullanılmayan outputlar/
+
+# Zip ve arşiv dosyaları
+zipler/
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# Eğitim / model çıktıları
+#output/
+#output_train/
+#outputs/
+#runs/
+#wandb/
+#mlruns/
+
+# Büyük model dosyaları
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Log dosyaları
+*.log
+logs/
+
+# Geçici dosyalar
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ============================================================
+# OS-specific files
+# ============================================================
+desktop.ini

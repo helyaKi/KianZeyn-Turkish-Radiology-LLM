@@ -1,0 +1,8 @@
+{
+  "base_model_key": "doktor-llama8b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--alibayram--Doktor-Llama-3-8b",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--alibayram--Doktor-Llama-3-8b\\snapshots\\5f13a8ab240bb2589ce5bd520f9dda2836ce7ebf",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\doktor-llama8b"
+}

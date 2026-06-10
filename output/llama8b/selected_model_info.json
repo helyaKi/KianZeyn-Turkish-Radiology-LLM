@@ -1,0 +1,8 @@
+{
+  "base_model_key": "llama8b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--llama-3-8b-Instruct-bnb-4bit",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--llama-3-8b-Instruct-bnb-4bit\\snapshots\\fd5a4dc328319c1cfe9489eccfb9c6406bdfd469",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\llama8b"
+}

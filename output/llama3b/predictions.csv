@@ -1,0 +1,772 @@
+﻿input_json,true_output,pred_output
+"{""hacim_cm3"": 23.51, ""hacim_mm3"": 23510.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""oksipital""], ""atlas_derin"": [], ""adc_mean"": 6540.22, ""adc_median"": 6250.33, ""adc_min"": -1500.44, ""adc_max"": 23000.11, ""adc_std"": 3100.55, ""adc_p5"": 2900.88, ""adc_p95"": 11600.22, ""dwi_mean"": 3850.44, ""dwi_median"": 4000.11, ""dwi_std"": 890.33, ""dwi_adc_oran"": 0.5887, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporal"", ""oksipital""], ""derin_gt"": [], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ PCA sulama alanı ile uyumlu olarak sağ medial temporal lob ve oksipital lob kortikal-subkortikal alanlarda akut difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ PCA alanında akut iskemik infarkt saptanmıştır.","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında temporal, oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağ PCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 6.89, ""hacim_mm3"": 6890.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""oksipital""], ""atlas_derin"": [""hipokampus""], ""adc_mean"": 6120.44, ""adc_median"": 5890.33, ""adc_min"": -1500.22, ""adc_max"": 18500.66, ""adc_std"": 2450.88, ""adc_p5"": 2800.11, ""adc_p95"": 10500.44, ""dwi_mean"": 3800.55, ""dwi_median"": 3950.22, ""dwi_std"": 750.33, ""dwi_adc_oran"": 0.6209, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""temporal"", ""oksipital""], ""derin_gt"": [""hipokampus""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol hipokampus ve sol temporo-oksipital bileşkede akut iskemik süreç ile uyumlu difüzyon kısıtlaması (DWI hiperintens, ADC hipointens) alanları izlenmiştir. kitle etkisi saptanmadı.
+
+Sonuç: 
+
+Sol PCA sulama alanında (hipokampal ve temporo-oksipital) akut infarkt bulguları izlenmektedir.","Bulgular: 
+Sol posterior serebral arter (PCA) sulama alanına uyan temporal, oksipital loblarında ve derin beyaz cevherde (hipokampus) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol PCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 2.639, ""hacim_mm3"": 2639.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 5345.23, ""adc_median"": 5286.179999999999, ""adc_min"": 546.66, ""adc_max"": 18468.42, ""adc_std"": 5706.52, ""adc_p5"": 2845.23, ""adc_p95"": 10345.23, ""dwi_mean"": 5264.27, ""dwi_median"": 5380.830000000001, ""dwi_std"": 1456.59, ""dwi_adc_oran"": 0.9849, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""talamus""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol talamus düzeyinde yaklaşık 13 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol talamus yerleşimli akut laküner infarkt saptanmıştır.","Bulgular: 
+Sol talamus düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol talamus yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 23.006, ""hacim_mm3"": 23005.99, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 8759.37, ""adc_median"": 8249.74, ""adc_min"": -12806.24, ""adc_max"": 30067.67, ""adc_std"": 3926.35, ""adc_p5"": 4544.7, ""adc_p95"": 15667.97, ""dwi_mean"": 2261.12, ""dwi_median"": 2394.75, ""dwi_std"": 950.05, ""dwi_adc_oran"": 0.2581, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen"", ""pons"", ""serebellum"", ""medulla""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular:
+Sağda MCA sulama alanına uyaran lokalizasyonda geçirdiği infarkt sekiline ait görüntüleme izlenmiştir. Sol parietalde ve temporalde, korteks boyunca devamlıklı gösteren lineer milimetrik difüzyon kısıtlama alanları izlenmiştir. Sol temporalde ayrıca korteks boyunca devamlıklı gösteren, difüzyon serilerinde hiperintens, ADC haritalamada silik hipointens difüzyon kısıtlama sahası mevcuttur.
+
+Sonuç: 
+Hastanın önceki tetkikleri ile birlikte değerlendirilmesi uygun olacaktır.","Bulgular: 
+Sağ MCA sulama alanında, insülar kortekste ve sol serebellar hemisferde akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 19.802, ""hacim_mm3"": 19802.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [""serebellum""], ""adc_mean"": 5432.35, ""adc_median"": 5416.990000000001, ""adc_min"": 7.43, ""adc_max"": 18605.66, ""adc_std"": 2591.68, ""adc_p5"": 2932.35, ""adc_p95"": 10432.35, ""dwi_mean"": 4012.51, ""dwi_median"": 3996.19, ""dwi_std"": 883.71, ""dwi_adc_oran"": 0.7386, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""PICA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [], ""derin_gt"": [""serebellum""], ""damar_alani_gt"": ""PICA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ serebellar hemisferde (PICA sulama alanına uyan bölgede) akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+Sağ serebellar hemisferde akut infarktüs saptanmıştır.","Bulgular: 
+Sağ serebellar hemisferde (PICA sulama alanına uyan bölgede) akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ serebellar hemisferde (PICA alanı) akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 24.814, ""hacim_mm3"": 24814.09, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""parietal"", ""frontal"", ""oksipital""], ""atlas_derin"": [], ""adc_mean"": 9482.03, ""adc_median"": 9071.34, ""adc_min"": 256.29, ""adc_max"": 29731.14, ""adc_std"": 3135.04, ""adc_p5"": 4838.9, ""adc_p95"": 15161.19, ""dwi_mean"": 3207.87, ""dwi_median"": 2984.05, ""dwi_std"": 1112.41, ""dwi_adc_oran"": 0.3383, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 29], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen"", ""pons"", ""serebellum"", ""medulla""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol hemisferde difüzyon kısıtlaması izlendi, akut enfeksiyon şüphesi ile uyumlu bulgular içeriyor. 
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir, klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sol serebellar hemisferde akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+Sol serebellar hemisferde akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 10.883, ""hacim_mm3"": 10883.07, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [""bazal gangliyon"", ""talamus""], ""adc_mean"": 9834.8, ""adc_median"": 8395.97, ""adc_min"": 4299.44, ""adc_max"": 28594.98, ""adc_std"": 4553.5, ""adc_p5"": 5719.83, ""adc_p95"": 21800.26, ""dwi_mean"": 2637.49, ""dwi_median"": 2694.19, ""dwi_std"": 476.45, ""dwi_adc_oran"": 0.2682, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 25], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""temporal""], ""derin_gt"": [""internal kapsul""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": true}","Bulgular: 
+Sağ sentrum semiovalede, sağ temporal bolgede ve sağ periventrikuler beyaz cevherden sağ internal kapsule uzanan akut iskemi- infarkt izleri görülmüştür. Bu bulgular, akut iskemi- infarktın varlığını düşündürmektedir. 
+
+Sonuç: 
+Görülen bulgular akut iskemi- infarktın varlığını düşündürmektedir. Dikkatli takip ve gerektiğinde ileri tetkik gerektirebilir.","Bulgular: 
+Sağ lateral ventrikül komşuluğunda, internal kapsül düzeyinde ve temporal lobun medial kesiminde akut iskemik difüzyon kısıtlaması alanı izlenmiştir. Bu alanın sınırları ile birlikte değerlendirilmesi önerilir.
+
+Sonuç: 
+Akut laküner infarktüs saptanmıştır."
+"{""hacim_cm3"": 18.785, ""hacim_mm3"": 18785.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 6011.98, ""adc_median"": 5815.12, ""adc_min"": -1236.47, ""adc_max"": 21079.44, ""adc_std"": 3960.16, ""adc_p5"": 3511.98, ""adc_p95"": 11011.98, ""dwi_mean"": 5518.95, ""dwi_median"": 5449.19, ""dwi_std"": 625.84, ""dwi_adc_oran"": 0.918, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""ACA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""singulat"", ""parietal""], ""derin_gt"": [], ""damar_alani_gt"": ""ACA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol anterior serebral arter (ACA) sulama alanına uyan paramedyan singulat, parietal lob bölgelerinde kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+Sol ACA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sol anterior serebral arter (ACA) sulama alanına uyan paramedyan parietal ve singulat lob bölgelerinde kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+Sol ACA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 0.65, ""hacim_mm3"": 650.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""beyin sapi""], ""adc_mean"": 5400.22, ""adc_median"": 5100.33, ""adc_min"": 1800.44, ""adc_max"": 10500.11, ""adc_std"": 1100.55, ""adc_p5"": 3200.88, ""adc_p95"": 7800.22, ""dwi_mean"": 3600.33, ""dwi_median"": 3750.44, ""dwi_std"": 450.11, ""dwi_adc_oran"": 0.6666, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""pons""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Pons sol paramedyan alanda yaklaşık 6 mm boyutlarında akut difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+
+Pons sol yarısında akut laküner infarkt saptanmıştır.","Bulgular: Pons'un sol yarım küresinde akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+Pons'un sol yarım küresinde akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 1.19, ""hacim_mm3"": 1190.4, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [], ""atlas_derin"": [""beyin sapi""], ""adc_mean"": 6227.11, ""adc_median"": 5485.5, ""adc_min"": 1944.22, ""adc_max"": 17161.85, ""adc_std"": 2441.34, ""adc_p5"": 2704.37, ""adc_p95"": 9109.74, ""dwi_mean"": 2582.27, ""dwi_median"": 2834.23, ""dwi_std"": 560.22, ""dwi_adc_oran"": 0.43, ""spacing_mm"": [1.189, 1.191, 6.294], ""goruntu_boyutu"": [192, 192, 30], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""pons""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Pons'un sol yarım küresinde akut difüzyon kısıtlaması dikkat çekmektedir. Bu kısıtlama, muhtemelen bir akut beyin damar hastalığı veya başka bir acil durumun bir sonucu olabilir.
+
+Sonuç: 
+Pons'un sol yarım küresinde akut difüzyon kısıtlaması görülmektedir. Bu bulgu, hastanın yakın takip ve olası acil müdahale gerektiren bir durum olabilir.","Bulgular: Pons'un sol yarım küresinde akut iskemi ile uyumlu difüzyon kısıtlaması gösteren alan izlenmiştir. Bu bulgu, akut beyin damar hastalığı veya diğer akut beyin hastalıklarının bir sonucu olabilir.
+
+Sonuç: 
+Akut beyin damar hastalığı şüphesi bulunmaktadır. Düzenli takip ve daha detaylı tetkik gerektirmektedir."
+"{""hacim_cm3"": 104.394, ""hacim_mm3"": 104394.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal"", ""temporal"", ""parietal"", ""insula""], ""atlas_derin"": [""kaudat nukleus"", ""internal kapsul""], ""adc_mean"": 5170.05, ""adc_median"": 5151.88, ""adc_min"": -2407.68, ""adc_max"": 33546.95, ""adc_std"": 4071.59, ""adc_p5"": 2670.05, ""adc_p95"": 10170.05, ""dwi_mean"": 4066.1, ""dwi_median"": 4090.83, ""dwi_std"": 769.98, ""dwi_adc_oran"": 0.7865, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""temporal"", ""parietal"", ""insula""], ""derin_gt"": [""kaudat nukleus"", ""internal kapsul""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": true, ""vazojenik_odem_gt"": true, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA sulama alanında izlenen geniş akut-subakut infarkt sahası içerisinde peteşiyel kanama ile uyumlu sinyal değişiklikleri izlenmiştir. Lezyon çevresinde belirgin vazojenik ödem ve kitle etkisi dikkati çekmektedir.
+
+Sonuç: 
+
+Sol MCA sulama alanında hemorajik transformasyon ve vazojenik ödem gösteren infarktüs izlenmektedir.","Bulgular: 
+Sol MCA sulama alanında hemorajik transformasyon ve belirgin vazojenik ödem izlenmektedir. Lezyon periferinde belirgin vazojenik ödem ve akut iskemi lehine klinik korelasyon önerilir.
+
+Sonuç: 
+Sol MCA sulama alanında hemorajik transformasyon ve belirgin vazojenik ödem gösteren bir lezyon izlenmektedir. Bu bulguların klinik korelasyonına ve daha detaylı tetkiklere needir."
+"{""hacim_cm3"": 65.8, ""hacim_mm3"": 66652.73, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""singulat"", ""parietal"", ""frontal"", ""temporal"", ""insula""], ""atlas_derin"": [], ""adc_mean"": 13467.09, ""adc_median"": 12326.93, ""adc_min"": -25435.81, ""adc_max"": 58410.45, ""adc_std"": 6903.76, ""adc_p5"": 5285.66, ""adc_p95"": 26705.28, ""dwi_mean"": 8506.28, ""dwi_median"": 8067.61, ""dwi_std"": 2900.39, ""dwi_adc_oran"": 0.6, ""spacing_mm"": [1.239, 1.258, 5.97], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ periventriküler alanda ve temporal alanda akut difüzyon kısıtlaması gösteren alanlar mevcuttur. Bu alanlar, akut beyin hasarı veya iltihaplanma gibi durumları düşündürmektedir. 
+
+Sonuç: 
+Beyin difüzyon MR incelemesinde görülen bulgular, akut beyin hasarı veya iltihaplanma gibi durumların varlığını düşündürmektedir. Düzenli takip ve further inceleme gerektirmektedir.","Bulgular: 
+Sağ temporal lobda akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, akut beyin infarktının varlığını düşündürmektedir.
+
+Sonuç: 
+Sağ temporal lobda akut infarkt izlenmesinden, hastanın yakın zamanda bir beyin infarktı geçirmiş olabileceği düşünülmektedir."
+"{""hacim_cm3"": 14.965, ""hacim_mm3"": 14965.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal""], ""atlas_derin"": [""mezensefalon""], ""adc_mean"": 5379.11, ""adc_median"": 5208.98, ""adc_min"": -1060.46, ""adc_max"": 20772.46, ""adc_std"": 3366.41, ""adc_p5"": 2879.11, ""adc_p95"": 10379.11, ""dwi_mean"": 5489.78, ""dwi_median"": 5553.849999999999, ""dwi_std"": 1393.07, ""dwi_adc_oran"": 1.0206, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporal""], ""derin_gt"": [""mezensefalon""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında, temporal loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sağ PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında temporal loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağ PCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 34.026, ""hacim_mm3"": 34026.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""oksipital""], ""atlas_derin"": [""mezensefalon"", ""hipokampus""], ""adc_mean"": 5511.94, ""adc_median"": 5300.82, ""adc_min"": -2030.48, ""adc_max"": 22497.68, ""adc_std"": 4426.01, ""adc_p5"": 3011.94, ""adc_p95"": 10511.94, ""dwi_mean"": 4402.82, ""dwi_median"": 4470.009999999999, ""dwi_std"": 1068.66, ""dwi_adc_oran"": 0.7988, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 30], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporal"", ""oksipital""], ""derin_gt"": [""mezensefalon"", ""hipokampus""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında, temporal, oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sağ PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında temporal, oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağ PCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 1.051, ""hacim_mm3"": 1051.0, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 5651.49, ""adc_median"": 5553.79, ""adc_min"": 923.85, ""adc_max"": 27229.72, ""adc_std"": 2641.62, ""adc_p5"": 3151.49, ""adc_p95"": 10651.49, ""dwi_mean"": 3692.79, ""dwi_median"": 3605.81, ""dwi_std"": 527.26, ""dwi_adc_oran"": 0.6534, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 30], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""bilateral"", ""lob_gt"": [], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": true, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Bilateral bazal gangliyon düzeylerinde, akut iskemi ile uyumlu multipl, milimetrik boyutlu fokal difüzyon kısıtlamaları dikkati çekmektedir.
+
+Sonuç: 
+Bilateral bazal gangliyon yerleşimli akut laküner infarktlar izlenmektedir.","Bulgular: 
+Bilateral bazal ganglionlarda multipl, akut iskemi ile uyumlu fokal difüzyon kısıtlamaları dikkati çekmektedir.
+
+Sonuç: 
+
+Bilateral bazal ganglionlarda multipl akut laküner infarkt izlenmektedir."
+"{""hacim_cm3"": 19.126, ""hacim_mm3"": 19126.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""serebellum""], ""adc_mean"": 4665.97, ""adc_median"": 4502.52, ""adc_min"": 987.05, ""adc_max"": 31236.78, ""adc_std"": 5200.42, ""adc_p5"": 2165.97, ""adc_p95"": 9665.97, ""dwi_mean"": 5593.83, ""dwi_median"": 5725.4, ""dwi_std"": 1458.07, ""dwi_adc_oran"": 1.1989, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""PICA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""serebellum""], ""damar_alani_gt"": ""PICA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol serebellar hemisferde (PICA sulama alanına uyan bölgede) akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+Sol serebellar hemisferde (PICA alanı) akut infarktüs saptanmıştır.","Bulgular: 
+Sol serebellar hemisferde (PICA sulama alanına uyan bölgede) akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol serebellar hemisferde (PICA alanı) akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 17.005, ""hacim_mm3"": 17004.8, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""insula"", ""parietal"", ""frontal""], ""atlas_derin"": [""beyin sapi"", ""bazal gangliyon""], ""adc_mean"": 16718.78, ""adc_median"": 13458.67, ""adc_min"": 5161.84, ""adc_max"": 72966.98, ""adc_std"": 10055.96, ""adc_p5"": 8390.66, ""adc_p95"": 39869.57, ""dwi_mean"": 10406.96, ""dwi_median"": 9850.57, ""dwi_std"": 4196.86, ""dwi_adc_oran"": 0.6225, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporooccipital""], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+- Sağ temporal ve occipital bölgelerde, bazal ganglionlarda difüzyon kısıtlamaları izlenmektedir. Bu bulgular akut embolik infarktus ile uyumlu olabilir.
+
+Sonuç: 
+- Olguya ait patolojik bulgular klinik, fizik muayene ve laboratuvar verileri ile birlikte değerlendirilmelidir.","Bulgular: 
+Sağ temporal lobun inferior kesiminde ve insülar kortekste akut iskemik difüzyon kısıtlaması izlenmektedir. Bu bulgular, akut beyin damar hastalığı veya diğer akut beyin hastalıklarının bir sonucu olabilir.
+
+Sonuç: 
+Akut beyin damar hastalığı şüphesi ile ilgili olarak klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 2.89, ""hacim_mm3"": 2890.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 13800.44, ""adc_median"": 13100.33, ""adc_min"": 4200.22, ""adc_max"": 39000.11, ""adc_std"": 6800.55, ""adc_p5"": 7200.88, ""adc_p95"": 27500.44, ""dwi_mean"": 1700.11, ""dwi_median"": 1650.22, ""dwi_std"": 520.33, ""dwi_adc_oran"": 0.1231, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""talamus""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""kronik"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol talamusta eski iskemik olaya sekonder T2/FLAIR hiperintens, ADC'de kısıtlanma göstermeyen ensefalomalazik odak izlenmektedir. Akut iskemik süreç lehine bulgu saptanmadı.
+
+Sonuç: 
+Sol talamusta kronik laküner infarkt ile uyumlu sekeller izlenmektedir.","Bulgular: 
+Sol talamus düzeyinde yaklaşık 12 mm çapında, kronik iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol talamus yerleşimli kronik laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 2.859, ""hacim_mm3"": 2859.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""pons""], ""adc_mean"": 4665.97, ""adc_median"": 4626.01, ""adc_min"": -20.24, ""adc_max"": 27743.88, ""adc_std"": 3536.06, ""adc_p5"": 2165.97, ""adc_p95"": 9665.97, ""dwi_mean"": 5310.29, ""dwi_median"": 5295.34, ""dwi_std"": 799.84, ""dwi_adc_oran"": 1.1381, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""pons""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol pons düzeyinde yaklaşık 7 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol pons yerleşimli akut laküner infarkt saptanmıştır.","Bulgular: 
+Sol pons düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol pons yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 24.849, ""hacim_mm3"": 24848.53, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""beyin sapi""], ""adc_mean"": 6221.42, ""adc_median"": 5618.71, ""adc_min"": -14298.03, ""adc_max"": 34266.07, ""adc_std"": 3858.01, ""adc_p5"": 2494.78, ""adc_p95"": 12552.05, ""dwi_mean"": 3654.3, ""dwi_median"": 3437.55, ""dwi_std"": 1436.06, ""dwi_adc_oran"": 0.5874, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""serebellum""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+- Serebral ve serebellar parenkimde akut iskemi-infarkt ile uyumlu intensite artışı alanının mevcut olmadığı görülmüştür.
+- Sol serebellum'da sol yarıkta akut difüzyon kısıtlaması izlenmiştir.
+
+Sonuç: 
+- MR bulguları, klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmelidir.","Bulgular: 
+Sol serebellar hemisferde akut iskemi ile uyumlu difüzyon kısıtlaması izlenmektedir. 
+
+Sonuç: 
+Sol serebellar hemisferde akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 23.641, ""hacim_mm3"": 23641.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""insula""], ""atlas_derin"": [], ""adc_mean"": 12928.94, ""adc_median"": 12810.91, ""adc_min"": 1733.27, ""adc_max"": 34869.25, ""adc_std"": 5320.73, ""adc_p5"": 10428.94, ""adc_p95"": 17928.94, ""dwi_mean"": 1377.6, ""dwi_median"": 1293.3799999999999, ""dwi_std"": 1070.79, ""dwi_adc_oran"": 0.1066, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""temporal"", ""insula""], ""derin_gt"": [], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""kronik"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol temporal, insula loblarında eski iskemik olaya sekonder T2/FLAIR hiperintens, ADC'de kısıtlanma göstermeyen (ADC artışı) ensefalomalazik kistik odak izlenmektedir. Akut iskemik süreç saptanmadı.
+
+Sonuç: 
+Sol serebral hemisferde kronik infarkt ile uyumlu sekeller izlenmektedir.","Bulgular: 
+Sol temporal lobda ve insula lobda kortikal-subkortikal alanlarda difüzyon kısıtlaması izlenmiştir. Bu bulgular, sol serebral hemisferde kronik bir damar hastalığı veya metabolik bozukluğu düşündürmektedir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 2.145, ""hacim_mm3"": 2145.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 6800.22, ""adc_median"": 6500.11, ""adc_min"": 2500.44, ""adc_max"": 15000.33, ""adc_std"": 2100.55, ""adc_p5"": 3800.22, ""adc_p95"": 9500.88, ""dwi_mean"": 3400.11, ""dwi_median"": 3550.44, ""dwi_std"": 650.33, ""dwi_adc_oran"": 0.5, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": [""sentrum semiovale""], ""damar_alani_gt"": ""multiple"", ""donem_gt"": ""akut"", ""multifokal_gt"": true, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol sentrum semiovale ve korona radiata düzeylerinde birkaç adet milimetrik boyutlu akut difüzyon kısıtlama odakları saptanmıştır.
+
+Sonuç: 
+
+Sol derin beyaz cevherde akut laküner infarktlar izlenmektedir; mikroembolik süreç açısından değerlendirme önerilir.","Bulgular: 
+Sol sentrum semiovale düzeyinde ve sağ parietal lobda akut infarkt ile uyumlu multipl fokal difüzyon kısıtlamaları izlenmiştir. Bu bulgular, sol sentrum semiovale yerleşimli akut infarktın varlığını düşündürmektedir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 4.5, ""hacim_mm3"": 4530.07, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 20613.22, ""adc_median"": 14001.91, ""adc_min"": 7046.69, ""adc_max"": 72388.11, ""adc_std"": 15732.69, ""adc_p5"": 9131.8, ""adc_p95"": 65428.03, ""dwi_mean"": 7135.96, ""dwi_median"": 7759.96, ""dwi_std"": 2378.48, ""dwi_adc_oran"": 0.33, ""spacing_mm"": [1.149, 1.233, 5.75], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol peritalamik alanda ve sentrim semi ovalede akut infarkt görüntüsü izlenmiştir. Bu bulgular, hastanın klinik durumunu ve laboratuvar sonuçlarını da içeren bir değerlendirme ile birlikte yorumlanmalıdır.
+
+Sonuç: 
+Akut infarkt görüntüsüne sahip olan hasta, detaylı bir klinik değerlendirme ve gerektiğinde ek tetkiklerle birlikte takip edilmelidir.","Bulgular: 
+Sol peritalamik alanda akut iskemi lehine difüzyon kısıtlaması izlenmektedir. Bu bulgu, sol peritalamik alanda akut infarktüsün varlığını düşündürmektedir.
+
+Sonuç: 
+Sol peritalamik alanda akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 0.87, ""hacim_mm3"": 869.61, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 13281.62, ""adc_median"": 11583.09, ""adc_min"": 5285.66, ""adc_max"": 27811.1, ""adc_std"": 5753.77, ""adc_p5"": 6214.13, ""adc_p95"": 25981.07, ""dwi_mean"": 2011.41, ""dwi_median"": 2045.41, ""dwi_std"": 684.84, ""dwi_adc_oran"": 0.1514, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal""], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol lateral ventrikül komşuluğunda akut iskemi ile uyumlu fokal difüzyon kısıtlaması izlenmiştir. Bu bulgu, akut beyin damar hastalığına (iskemi) işaret edebilir.
+
+Sonuç: 
+Bu MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol bazal ganglionlar seviyesinde ve sol MCA sulama alanında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sol bazal ganglionlar seviyesinde ve sol MCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 1.32, ""hacim_mm3"": 1318.01, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""singulat"", ""frontal""], ""atlas_derin"": [""bazal gangliyon"", ""hipokampus"", ""talamus""], ""adc_mean"": 913.19, ""adc_median"": 898.6, ""adc_min"": 472.19, ""adc_max"": 1825.02, ""adc_std"": 186.73, ""adc_p5"": 688.84, ""adc_p95"": 1296.72, ""dwi_mean"": 155.29, ""dwi_median"": 149.5, ""dwi_std"": 29.95, ""dwi_adc_oran"": 0.18, ""spacing_mm"": [0.558, 0.545, 7.279], ""goruntu_boyutu"": [384, 384, 23], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""bilateral"", ""lob_gt"": [""temporal"", ""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Bilateral temporal lob ve parietal loblarda sentrium semi-oval düzeylerinde noktasal difüzyon kısıtlamaları izlenmiştir. Bu bulgular, muhtemelen bir nörodejeneratif süreç veya metabolik bozuklukla ilgili olabilir.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Bilateral temporal lobda ve parietal lobda difüzyon kısıtlamaları izlenmiştir. Bu bulgular, muhtemelen bir nörodejeneratif süreç veya metabolik bozuklukla ilgili olabilir.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 14.787, ""hacim_mm3"": 14787.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 5903.65, ""adc_median"": 5719.33, ""adc_min"": -1411.09, ""adc_max"": 32634.1, ""adc_std"": 2377.37, ""adc_p5"": 3403.65, ""adc_p95"": 10903.65, ""dwi_mean"": 5055.21, ""dwi_median"": 5188.14, ""dwi_std"": 843.4, ""dwi_adc_oran"": 0.8563, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""ACA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal""], ""derin_gt"": [], ""damar_alani_gt"": ""ACA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ anterior serebral arter (ACA) sulama alanına uyan paramedyan frontal lob bölgelerinde kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+Sağ ACA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sağ anterior serebral arter (ACA) sulama alanına uyan paramedyan frontal lob ve medial temporal loblarda kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+
+Sağ ACA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 218.55, ""hacim_mm3"": 219363.39, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""parietal"", ""frontal"", ""temporal"", ""insula"", ""oksipital""], ""atlas_derin"": [""bazal gangliyon"", ""hipokampus"", ""talamus""], ""adc_mean"": 16422.62, ""adc_median"": 15690.58, ""adc_min"": -49031.83, ""adc_max"": 79105.39, ""adc_std"": 8547.63, ""adc_p5"": 8649.49, ""adc_p95"": 31622.19, ""dwi_mean"": 8477.03, ""dwi_median"": 8665.01, ""dwi_std"": 4064.69, ""dwi_adc_oran"": 0.52, ""spacing_mm"": [1.233, 1.161, 5.788], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen"", ""pons"", ""serebellum"", ""medulla""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA ve ACA sulama alanlarında difüzyon kısıtlaması izlenmiştir. Bu bulgular, sol MCA ve ACA'nın sulama alanlarında kan akımının kısıtlanması veya engellenmesi ile ilişkili olabilir. 
+
+Sonuç: 
+Sol MCA ve ACA sulama alanlarında difüzyon kısıtlaması izlenmesine bağlı olarak, hastanın klinik durumunun ve laboratuvar sonuçlarının değerlendirilmesi önerilir.","Bulgular: 
+Sol MCA sulama alanına uyan frontal, parietal, temporal, oksipital, insula loblarında ve bazal gangliyon, talamus, internal kapsul, kaudat nukleus, lentiform nukleus, putamen, pons, serebellum, medulla düzeyinde geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında geniş akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 28.12, ""hacim_mm3"": 28120.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 6300.22, ""adc_median"": 6050.11, ""adc_min"": -1800.44, ""adc_max"": 25500.33, ""adc_std"": 3200.55, ""adc_p5"": 2900.88, ""adc_p95"": 11200.22, ""dwi_mean"": 4050.33, ""dwi_median"": 4150.44, ""dwi_std"": 1080.11, ""dwi_adc_oran"": 0.6428, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""ACA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": [], ""damar_alani_gt"": ""ACA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ anterior serebral arter (ACA) sulama alanına uyan, paramedyan frontal ve superior parietal loblarda akut iskemi ile uyumlu kortikal-subkortikal difüzyon kısıtlaması mevcuttur.
+
+Sonuç: 
+Sağ ACA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sağ anterior serebral arter (ACA) sulama alanına uyan frontal, parietal loblarında akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ ACA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 12.295, ""hacim_mm3"": 12295.12, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""singulat"", ""frontal""], ""atlas_derin"": [], ""adc_mean"": 8140.35, ""adc_median"": 7368.58, ""adc_min"": 2291.83, ""adc_max"": 34096.22, ""adc_std"": 3867.56, ""adc_p5"": 4378.18, ""adc_p95"": 15603.38, ""dwi_mean"": 2609.09, ""dwi_median"": 2294.04, ""dwi_std"": 1060.57, ""dwi_adc_oran"": 0.3205, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""parietal"", ""oksipital""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Sağ parieto-oksipital lobda akut infarkt alanları izlendi. Bulgular, akut bir beyin infarktının varlığını göstermektedir. 
+
+Sonuç: 
+Olguya ait patolojiler klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sağ peritalamik alanda ve oksipital lobun medial kesiminde akut iskemik difüzyon kısıtlaması alanları izlenmiştir. Bu bulgular, hastanın klinik durumunu ve laboratuvar sonuçlarını da içeren bir değerlendirme ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Akut iskemik olayın varlığını düşündürmektedir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 6.018, ""hacim_mm3"": 6018.41, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [], ""adc_mean"": 18480.3, ""adc_median"": 15332.38, ""adc_min"": 5869.95, ""adc_max"": 71076.45, ""adc_std"": 12202.9, ""adc_p5"": 8441.67, ""adc_p95"": 50451.14, ""dwi_mean"": 5848.11, ""dwi_median"": 5902.55, ""dwi_std"": 1708.95, ""dwi_adc_oran"": 0.3165, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 25], ""damar_tahmin"": null, ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""talamus"", ""kaudat nukleus"", ""internal kapsul""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": true}","Bulgular: 
+Sol lateral ventrikül komşuluğunda ve sol korpus kallozum düzeylerinde, sol talamus ve sol kaudat nükleus, eksternal kapsül alanlarını tutan difüzyon kısıtlama alanları izlenmektedir. Bu bulgular öncelikle akut infarkt ile uyumlu olduğu düşünülmektedir. Anemnezi ile birlikte değerlendirme önerilir.
+
+Sonuç: 
+MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol talamusta ve sol kaudat nükleusunda akut iskemik difüzyon kısıtlaması izlenmiştir. Bu bulgular, hastanın klinik durumunu ve laboratuvar sonuçlarını da içeren bir değerlendirme ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Akut iskemik difüzyon kısıtlaması gösteren MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 32.04, ""hacim_mm3"": 32158.63, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""insula"", ""parietal"", ""frontal""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 9888.86, ""adc_median"": 8027.05, ""adc_min"": -15722.38, ""adc_max"": 41212.72, ""adc_std"": 6782.6, ""adc_p5"": 3646.4, ""adc_p95"": 26646.03, ""dwi_mean"": 2251.69, ""dwi_median"": 2321.89, ""dwi_std"": 1155.79, ""dwi_adc_oran"": 0.23, ""spacing_mm"": [1.249, 1.247, 6.056], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": [""basal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol fronto-parietal bölgede subkortikal alanda difüzyon kısıtlayan anfarkt ile uyumlu alanlar izlendi. Periventriküler düzeyde sağda bazal ganglionlar komşuluğunda akut infarkt lehine difüzyon kısıtlayan milimetrik odak izlendi.
+
+Sonuç: 
+Beyin difüzyon MR bulguları akut bir beyin infarktı düşündürmektedir. Klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol fronto-parietal bölgede ve sol bazal ganglionlar seviyesinde akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgular, sol fronto-parietal bölgede ve sol bazal ganglionlar seviyesinde akut infarktın varlığını düşündürmektedir.
+
+Sonuç: 
+Akut infarkt şüphesi ile ilgili olarak hastanın klinik bilgilerinin ve laboratuvar sonuçlarının birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 110.915, ""hacim_mm3"": 110915.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""parietal"", ""frontal"", ""insula"", ""temporal""], ""atlas_derin"": [""lentiform nukleus"", ""bazal gangliyon""], ""adc_mean"": 4617.34, ""adc_median"": 4368.81, ""adc_min"": -1094.4, ""adc_max"": 20935.55, ""adc_std"": 4074.37, ""adc_p5"": 2117.34, ""adc_p95"": 9617.34, ""dwi_mean"": 3660.9, ""dwi_median"": 3688.26, ""dwi_std"": 1418.58, ""dwi_adc_oran"": 0.7929, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""parietal"", ""frontal"", ""insula"", ""temporal""], ""derin_gt"": [""lentiform nukleus"", ""bazal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan parietal, frontal, insula, temporal loblarında ve derin beyaz cevherde (lentiform nukleus, bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Sağ MCA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan paramedyan parietal, frontal, insula, temporal loblarında ve lentiform nukleus, bazal gangliyon düzeyinde geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 39.42, ""hacim_mm3"": 39420.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal"", ""insula""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 5890.11, ""adc_median"": 5600.22, ""adc_min"": -1900.33, ""adc_max"": 26500.44, ""adc_std"": 3500.55, ""adc_p5"": 2600.88, ""adc_p95"": 11200.11, ""dwi_mean"": 4200.33, ""dwi_median"": 4350.44, ""dwi_std"": 1120.22, ""dwi_adc_oran"": 0.7131, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""putamen""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol insülar korteks, putamen ve çevre frontal operkulumda akut iskemi ile uyumlu (ADC'de düşük, DWI'da yüksek sinyalli) difüzyon kısıtlaması sahası saptanmıştır.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut infarkt saptanmıştır; bazal ganglion ve insülar tutulum mevcuttur.","Bulgular: 
+Sol MCA sulama alanına uyan frontal, insula loblarında ve derin beyaz cevherde (bazal gangliyon, putamen) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 11.477, ""hacim_mm3"": 11477.16, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 10315.69, ""adc_median"": 9190.02, ""adc_min"": -13399.99, ""adc_max"": 34691.3, ""adc_std"": 5381.43, ""adc_p5"": 4473.02, ""adc_p95"": 21218.37, ""dwi_mean"": 9802.62, ""dwi_median"": 10097.42, ""dwi_std"": 2430.53, ""dwi_adc_oran"": 0.9503, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ frontal bölgede akut difüzyon kısıtlama alanı izlenmiştir. Bu alanın boyutu ve lokalizasyonu ile birlikte, hastanın klinik öyküsü ve laboratuvar sonuçları birlikte değerlendirilmelidir.
+
+Sonuç: 
+Sağ frontal bölgede akut difüzyon kısıtlama alanı izlenmesine bağlı olarak, hastanın klinik takip ve gerektiğinde ileri tetkiklerin yapılması önerilir.","Bulgular: 
+Sağ frontal lobda akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, akut beyin infarktının varlığını düşündürmektedir.
+
+Sonuç: 
+Sağ frontal lobda akut infarkt izlenmesinden, hastanın yakın zamanda bir beyin infarktı geçirmiş olabileceği düşünülmektedir."
+"{""hacim_cm3"": 15.55, ""hacim_mm3"": 15549.71, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""insula""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 17626.28, ""adc_median"": 15402.76, ""adc_min"": 3123.85, ""adc_max"": 74766.55, ""adc_std"": 8781.24, ""adc_p5"": 10255.06, ""adc_p95"": 32640.45, ""dwi_mean"": 7687.45, ""dwi_median"": 7510.3, ""dwi_std"": 2830.88, ""dwi_adc_oran"": 0.4361, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 25], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol bazal ganglionlar düzeyinde difüzyon artışı saptandı. Bu bulgu, sol bazal ganglionlar düzeyinde hipokinetik aksiyal difüzyon artışı olarak yorumlanabilir. 
+
+Sonuç: 
+Bu bulgu, sol bazal ganglionlar düzeyinde hipokinetik aksiyal difüzyon artışı ile uyumlu olabilir. Düzenli takip ve daha detaylı inceleme gerektirmektedir.","Bulgular: 
+Sol bazal ganglionlar seviyesinde difüzyon kısıtlaması izlenmiştir. Bu bulgu, sol bazal ganglionlar seviyesinde difüzyon kısıtlamasının varlığını göstermektedir.
+
+Sonuç: 
+Sol bazal ganglionlar seviyesinde difüzyon kısıtlaması izlenmesinden, muhtemelen bir nörolojik sorun veya hastalığın varlığı düşünülmelidir. Düzenli takip ve daha detaylı tetkik gerektirmektedir."
+"{""hacim_cm3"": 357.962, ""hacim_mm3"": 357961.81, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""singulat"", ""parietal"", ""frontal"", ""temporal"", ""insula"", ""oksipital""], ""atlas_derin"": [""hipokampus"", ""talamus"", ""beyin sapi"", ""bazal gangliyon"", ""amigdala""], ""adc_mean"": 11717.4, ""adc_median"": 8932.59, ""adc_min"": -22361.49, ""adc_max"": 53341.23, ""adc_std"": 8522.05, ""adc_p5"": 3475.72, ""adc_p95"": 31251.47, ""dwi_mean"": 5061.12, ""dwi_median"": 5035.27, ""dwi_std"": 1819.16, ""dwi_adc_oran"": 0.4319, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 32], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen"", ""pons"", ""serebellum"", ""medulla""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Sağ serebral hemisferde yaygın akut infarkt alanı izlendi. Bulgular, akut infarktın serebral hemisferde yaygınlığını ve akut tabloyu göstermektedir. 
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir, klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sağda serebral hemisferde kortikal ve subkortikal alanlarda difüzyon kısıtlaması izlenmiştir. Bu bulgular, muhtemelen bir aksonal damar hastalığı veya metabolik bozukluğu düşündürmektedir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 42.301, ""hacim_mm3"": 42301.05, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 5691.46, ""adc_median"": 4865.84, ""adc_min"": -4643.34, ""adc_max"": 33460.46, ""adc_std"": 2869.55, ""adc_p5"": 3197.37, ""adc_p95"": 10858.37, ""dwi_mean"": 2911.71, ""dwi_median"": 2964.25, ""dwi_std"": 783.68, ""dwi_adc_oran"": 0.5116, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""temporal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol frontotemporal lobda akut infarkt alanı mevcuttur. Bu bulgu, akut bir beyin infarktının sol frontotemporal lobda görüldüğünü göstermektedir. 
+
+Sonuç: 
+Beyin infarktının klinik, fizik muayene ve laboratuvar verileri ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol periventriküler alanda ve temporal lobda akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sol periventriküler alanda ve temporal lobda akut infarkt izlenmektedir."
+"{""hacim_cm3"": 0.45, ""hacim_mm3"": 446.71, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 6899.31, ""adc_median"": 6467.76, ""adc_min"": 5371.97, ""adc_max"": 10324.94, ""adc_std"": 1230.4, ""adc_p5"": 5712.97, ""adc_p95"": 9664.31, ""dwi_mean"": 2465.37, ""dwi_median"": 2306.43, ""dwi_std"": 202.52, ""dwi_adc_oran"": 0.34, ""spacing_mm"": [1.223, 1.249, 5.969], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": null, ""lob_gt"": [], ""derin_gt"": [], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Beyin difüzyon MR incelemesinde, akut iskemi-infarkt ile uyumlu intensite artışı alanının serebral ve serebellar parankimde mevcut olmadığı görülmüştür.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+- 
+- 
+
+Sonuç: 
+
+Diyagnoz: 
+
+Serebral ve serebellum difüzyon MR incelemesinde, akut iskemi-infarkt ile uyumlu intensite artışı alanının mevcut olmadığı görülmektedir."
+"{""hacim_cm3"": 134.385, ""hacim_mm3"": 134385.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""parietal"", ""insula"", ""frontal"", ""temporal""], ""atlas_derin"": [""kaudat nukleus"", ""internal kapsul"", ""putamen""], ""adc_mean"": 4959.24, ""adc_median"": 4761.219999999999, ""adc_min"": 1113.77, ""adc_max"": 15757.55, ""adc_std"": 4726.33, ""adc_p5"": 2459.24, ""adc_p95"": 9959.24, ""dwi_mean"": 4984.47, ""dwi_median"": 4932.12, ""dwi_std"": 1496.7, ""dwi_adc_oran"": 1.0051, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""parietal"", ""insula"", ""frontal"", ""temporal""], ""derin_gt"": [""kaudat nukleus"", ""internal kapsul"", ""putamen""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan parietal, insula, frontal, temporal loblarında ve derin beyaz cevherde (kaudat nukleus, internal kapsul, putamen) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Sağ MCA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sağ MCA sulama alanına uyan parietal, insula, frontal, temporal loblarında ve derin beyaz cevherde (kaudat nukleus, internal kapsul, putamen) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 0.8, ""hacim_mm3"": 811.77, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [], ""adc_mean"": 10376.71, ""adc_median"": 8930.26, ""adc_min"": 5145.91, ""adc_max"": 35698.73, ""adc_std"": 5549.89, ""adc_p5"": 6031.47, ""adc_p95"": 23656.3, ""dwi_mean"": 2456.92, ""dwi_median"": 2411.84, ""dwi_std"": 681.79, ""dwi_adc_oran"": 0.24, ""spacing_mm"": [1.215, 1.154, 5.839], ""goruntu_boyutu"": [192, 192, 29], ""damar_tahmin"": null, ""normal"": false, ""lateralizasyon_gt"": null, ""lob_gt"": [], ""derin_gt"": [], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Beyin difüzyon MR incelemesinde, akut iskemi-infarkt ile uyumlu intensite artışı alanının serebral ve serebellar parankimde mevcut olmadığı görülmüştür. 
+
+Sonuç: 
+Beyin difüzyon MR bulguları, klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmelidir.","Bulgular: 
+- Sağ serebral hemisferde akut iskemi-infarkt ile uyumlu intensite artışı alanının mevcut olmadığı görülmektedir.
+
+Sonuç: 
+- MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 44.51, ""hacim_mm3"": 44510.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 6100.22, ""adc_median"": 5800.33, ""adc_min"": -2400.11, ""adc_max"": 25500.44, ""adc_std"": 3450.55, ""adc_p5"": 2850.88, ""adc_p95"": 11400.22, ""dwi_mean"": 4150.33, ""dwi_median"": 4300.11, ""dwi_std"": 1020.44, ""dwi_adc_oran"": 0.6803, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": [], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA sulama alanına uyan frontal ve parietal loblarda, motor korteksi de içine alan geniş çaplı akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut infarkt saptanmıştır; motor korteks tutulumu mevcuttur.","Bulgular: 
+Sol frontal, parietal loblarında akut infarkt ile uyumlu difüzyon kısıtlaması gösteren alanlar mevcuttur. Bu bulgular, sol serebral hemisferde akut infarktın varlığını düşündürmektedir.
+
+Sonuç: 
+Sol serebral hemisferde akut infarkt şüphesi bulunmaktadır."
+"{""hacim_cm3"": 30.719, ""hacim_mm3"": 30719.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""parietal"", ""frontal""], ""atlas_derin"": [""kaudat nukleus"", ""internal kapsul""], ""adc_mean"": 5582.22, ""adc_median"": 5424.56, ""adc_min"": 50.4, ""adc_max"": 27640.56, ""adc_std"": 2948.11, ""adc_p5"": 3082.22, ""adc_p95"": 10582.22, ""dwi_mean"": 4925.47, ""dwi_median"": 4846.76, ""dwi_std"": 1480.93, ""dwi_adc_oran"": 0.8823, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""parietal"", ""frontal""], ""derin_gt"": [""kaudat nukleus"", ""internal kapsul""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan parietal, frontal loblarında ve derin beyaz cevherde (kaudat nukleus, internal kapsul) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Sol MCA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan paramedyan parietal, frontal loblarında ve derin beyaz cevherde (kaudat nukleus, internal kapsul) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 63.749, ""hacim_mm3"": 63748.63, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""singulat"", ""temporal"", ""insula"", ""frontal""], ""atlas_derin"": [""bazal gangliyon"", ""talamus""], ""adc_mean"": 12633.37, ""adc_median"": 12038.17, ""adc_min"": -1113.22, ""adc_max"": 28557.6, ""adc_std"": 4388.35, ""adc_p5"": 6157.46, ""adc_p95"": 20110.77, ""dwi_mean"": 7059.8, ""dwi_median"": 6909.96, ""dwi_std"": 3044.13, ""dwi_adc_oran"": 0.5588, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": [""bazal gangliyon"", ""internal kapsul"", ""external kapsul""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": true, ""vazojenik_odem_gt"": true, ""artefakt_gt"": false}","Bulgular: 
+- Sağ frontoparietal bölgede 7 cm çaplı bazal ganglion düzeyine eksternal ve internal kapsül lokalizasyonlarına uzanan akut parankimal hematom izlendi.
+- Bu düzeyde difüzyon kısıtlaması bulgusu mevcuttur.
+- Parankimal hematom lehinedir.
+- Komşuluğunda geniş vazojenik ödem sahası izlendi.
+- Orta hattın soluna 5 mm shift izlendi.
+- Sağ lateral ventrikül basılmıştır.
+
+Sonuç: 
+- Olguya ait patolojiler bulgular kısmında belirtilmiştir, ancak klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sağda frontoparietal bölgede, internal kapsülün medial kesiminde ve external kapsülün lateral kesiminde akut iskemik difüzyon kısıtlamaları izlenmiştir. Ayrıca, bazal ganglionlar komşuluğunda ve internal kapsülün medial kesiminde hemorajik transformasyon gösteren nodüler odaklar mevcuttur. Bu bulgular, akut beyin damar hastalığı veya diğer nörolojik koşulların bir sonucu olabilir.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 8.059, ""hacim_mm3"": 8058.98, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 3726.95, ""adc_median"": 3360.61, ""adc_min"": 923.98, ""adc_max"": 17822.16, ""adc_std"": 1676.5, ""adc_p5"": 2069.12, ""adc_p95"": 6948.31, ""dwi_mean"": 1225.45, ""dwi_median"": 1234.17, ""dwi_std"": 287.6, ""dwi_adc_oran"": 0.3288, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""oksipital""], ""derin_gt"": [""internal kapsul"", ""lentiform nukleus"", ""basal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağda periventriküler ak madde de ve internal kapsul arka bacakta, ayrıca lentiform nükleus posteriöründe akut iskemik difüzyon kısıtlaması alanları mevcuttur. Sağ frontal lobe'da orta frontal girüstte ve anteriorda kortikal akut-iskemik difüzyon kısıtlamaları mevcuttur.
+
+Sonuç: 
+Beyin difüzyon MR incelemesinde akut iskemik difüzyon kısıtlamaları saptandı. Bu bulgular akut beyin damar hastalığı veya benzeri bir durumun varlığını düşündürmektedir.","Bulgular: 
+Sağ MCA sulama alanında, internal kapsul, lentiform nukleus ve basal ganglion düzeyinde geniş akut-subakut infarkt sahası izlenmiştir. 
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut-subakut infarkt görülmektedir."
+"{""hacim_cm3"": 117.94, ""hacim_mm3"": 117940.13, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""parietal"", ""frontal"", ""temporal"", ""insula"", ""oksipital""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 10627.15, ""adc_median"": 8744.13, ""adc_min"": -17492.78, ""adc_max"": 42606.99, ""adc_std"": 7189.8, ""adc_p5"": 3128.31, ""adc_p95"": 26101.49, ""dwi_mean"": 2226.49, ""dwi_median"": 2420.82, ""dwi_std"": 933.87, ""dwi_adc_oran"": 0.2095, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 25], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": null, ""lob_gt"": [""frontal"", ""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol ön aparitin parietal bölgesinde geniş bir alanda diffüz kısıtlılık izlenmiştir. Bu bulgu, olgunun patolojik durumunu ortaya koyan bir işaret olarak yorumlanmalıdır.
+
+Sonuç: 
+Bu bulgu, olgunun klinik, fizik muayene ve laboratuvar verileri ile birlikte değerlendirilmesi gereken bir durum olarak göstermektedir.","Bulgular: 
+Sol frontal ve parietal loblarında kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır. Bu bulgular, hastanın klinik durumunu ve laboratuvar sonuçlarını da içeren bir değerlendirme ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 43.346, ""hacim_mm3"": 43346.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""frontal"", ""insula""], ""atlas_derin"": [""kaudat nukleus"", ""bazal gangliyon""], ""adc_mean"": 5611.04, ""adc_median"": 5424.11, ""adc_min"": -1242.1, ""adc_max"": 31490.21, ""adc_std"": 2311.85, ""adc_p5"": 3111.04, ""adc_p95"": 10611.04, ""dwi_mean"": 4469.47, ""dwi_median"": 4382.79, ""dwi_std"": 621.19, ""dwi_adc_oran"": 0.7965, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""temporal"", ""frontal"", ""insula""], ""derin_gt"": [""kaudat nukleus"", ""bazal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan temporal, frontal, insula loblarında ve derin beyaz cevherde (kaudat nukleus, bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Sağ MCA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan temporal, frontal, insula loblarında ve derin beyaz cevherde (kaudat nukleus, bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 22.479, ""hacim_mm3"": 22479.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""oksipital"", ""temporal""], ""atlas_derin"": [""hipokampus""], ""adc_mean"": 5681.65, ""adc_median"": 5654.7699999999995, ""adc_min"": -538.01, ""adc_max"": 35158.44, ""adc_std"": 2959.38, ""adc_p5"": 3181.65, ""adc_p95"": 10681.65, ""dwi_mean"": 4982.65, ""dwi_median"": 5103.44, ""dwi_std"": 1065.38, ""dwi_adc_oran"": 0.877, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""oksipital"", ""temporal""], ""derin_gt"": [""hipokampus""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol posterior serebral arter (PCA) sulama alanında, oksipital, temporal loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sol PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sol posterior serebral arter (PCA) sulama alanına uyan oksipital, temporal loblarında ve derin beyaz cevherde (hipokampus) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol PCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 81.382, ""hacim_mm3"": 81381.96, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""insula"", ""parietal"", ""oksipital""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 28048.22, ""adc_median"": 22755.73, ""adc_min"": -118100.24, ""adc_max"": 154673.35, ""adc_std"": 17783.34, ""adc_p5"": 11239.9, ""adc_p95"": 65366.97, ""dwi_mean"": 7594.05, ""dwi_median"": 8091.12, ""dwi_std"": 2440.32, ""dwi_adc_oran"": 0.2707, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 29], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Sağ parietal lobda yaygın kortikal-subkortikal akut infarkt ile uyumlu difüzyon kısıtlıkları izlenmiştir. Bu bulgular, akut bir beyin infarktının varlığını düşündürmektedir.
+
+Sonuç: 
+Sağ parietal lobda akut infarkt şüphesi nedeniyle klinik değerlendirme ve laboratuvar sonuçlarının birlikte değerlendirilmesi önerilir.","Bulgular: 
+Parietal lobda akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, akut beyin damar hastalığı veya diğer nörolojik koşulların bir sonucu olabilir.
+
+Sonuç: 
+Parietal lobda akut infarkt ile uyumlu difüzyon kısıtlaması görülen hasta için daha detaylı tetkik ve takip gerektirir."
+"{""hacim_cm3"": 0.794, ""hacim_mm3"": 794.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 5820.47, ""adc_median"": 5769.62, ""adc_min"": -2780.9, ""adc_max"": 17824.97, ""adc_std"": 4507.26, ""adc_p5"": 3320.47, ""adc_p95"": 10820.47, ""dwi_mean"": 3861.64, ""dwi_median"": 3798.43, ""dwi_std"": 540.01, ""dwi_adc_oran"": 0.6635, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [], ""derin_gt"": [""talamus""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ talamus düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ talamus yerleşimli akut laküner infarkt saptanmıştır.","Bulgular: 
+Sağ talamus düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ talamus yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 4.99, ""hacim_mm3"": 4989.67, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""parietal""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 5581.38, ""adc_median"": 5218.6, ""adc_min"": 678.52, ""adc_max"": 21404.57, ""adc_std"": 2666.17, ""adc_p5"": 1962.1, ""adc_p95"": 10727.54, ""dwi_mean"": 2494.01, ""dwi_median"": 2406.77, ""dwi_std"": 721.43, ""dwi_adc_oran"": 0.42, ""spacing_mm"": [1.229, 1.199, 6.044], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": null, ""lob_gt"": [], ""derin_gt"": [], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Serebral ve serebellar parankimdeki akut iskemi-infarkt ile uyumlu intensite artışı alanının mevcut olmadığı görülmektedir. 
+
+Sonuç: 
+MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+- Sağda parieto-temporal bölgede akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+- Sağda parieto-temporal bölgede akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 24.567, ""hacim_mm3"": 24567.0, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [""oksipital"", ""temporal""], ""atlas_derin"": [""talamus"", ""hipokampus""], ""adc_mean"": 6540.12, ""adc_median"": 6100.45, ""adc_min"": -2100.33, ""adc_max"": 28050.88, ""adc_std"": 3890.11, ""adc_p5"": 3120.44, ""adc_p95"": 12500.33, ""dwi_mean"": 4200.55, ""dwi_median"": 4350.22, ""dwi_std"": 1120.66, ""dwi_adc_oran"": 0.6422, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""bilateral"", ""lob_gt"": [""oksipital"", ""temporal""], ""derin_gt"": [""talamus"", ""hipokampus""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": true, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Bilateral oksipital loblarda, medial temporal loblarda ve her iki talamusta akut difüzyon kısıtlaması gösteren alanlar izlenmiştir. Bulgular vertebrobaziler sistem (PCA sulama alanları) kaynaklı iskemik süreci desteklemektedir.
+
+Sonuç: 
+
+Bilateral PCA sulama alanlarında akut infarkt ile uyumlu bulgular izlenmektedir. Embolik süreçler veya baziler arter trombozu açısından CT anjiografi/MR anjiografi ile değerlendirilmesi önerilir.","Bulgular: 
+Bilateral PCA sulama alanına uyan oksipital, temporal loblarında ve derin beyaz cevherde (talamus, hipokampus) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Bilateral PCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 0.43, ""hacim_mm3"": 422.02, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 7027.11, ""adc_median"": 6742.37, ""adc_min"": 5249.61, ""adc_max"": 10034.98, ""adc_std"": 1265.15, ""adc_p5"": 5528.37, ""adc_p95"": 9525.72, ""dwi_mean"": 2401.74, ""dwi_median"": 2473.96, ""dwi_std"": 200.75, ""dwi_adc_oran"": 0.33, ""spacing_mm"": [1.146, 1.144, 6.039], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": null, ""lob_gt"": [], ""derin_gt"": [], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Beyin difüzyon MR incelemesinde, akut iskemi-infarkt ile uyumlu intensite artışı alanının serebral ve serebellar parankimde mevcut olmadığı görülmüştür.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+- 
+- 
+
+Sonuç: 
+
+Diyagnoz: 
+
+Serebral ve serebellum hemodiyagnostik MR incelemesinde, akut iskemi-infarkt ile uyumlu intensite artışı alanının mevcut olmadığı görülmektedir."
+"{""hacim_cm3"": 9.876, ""hacim_mm3"": 9875.7, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""temporal"", ""insula""], ""atlas_derin"": [""hipokampus"", ""bazal gangliyon""], ""adc_mean"": 11628.93, ""adc_median"": 9307.51, ""adc_min"": 2500.78, ""adc_max"": 39953.04, ""adc_std"": 7126.47, ""adc_p5"": 5095.28, ""adc_p95"": 28840.98, ""dwi_mean"": 2465.58, ""dwi_median"": 2350.28, ""dwi_std"": 883.0, ""dwi_adc_oran"": 0.212, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sayın meslektaşım, difüzyon MR incelemesinde sağ frontalde milimetrik difüzyon kısıtlamaları izlenmektedir. Bu bulgular embolik odak ile ilişkili olabilir. 
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sağ frontoparietal bölgede difüzyon kısıtlaması izlenmiştir. Bu bulgu, muhtemelen bir nörodejeneratif süreç veya metabolik bozuklukla ilgili olabilir.
+
+Sonuç: 
+Sağ frontoparietal bölgede difüzyon kısıtlaması görülen hastada daha detaylı tetkik ve takip gerektirmektedir."
+"{""hacim_cm3"": 90.98, ""hacim_mm3"": 90980.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal"", ""temporal"", ""insula"", ""parietal""], ""atlas_derin"": [""internal kapsul"", ""kaudat nukleus""], ""adc_mean"": 6398.77, ""adc_median"": 6384.6, ""adc_min"": -2366.22, ""adc_max"": 23582.31, ""adc_std"": 2766.81, ""adc_p5"": 3898.77, ""adc_p95"": 11398.77, ""dwi_mean"": 5107.96, ""dwi_median"": 5010.5, ""dwi_std"": 1331.47, ""dwi_adc_oran"": 0.7983, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""temporal"", ""insula"", ""parietal""], ""derin_gt"": [""internal kapsul"", ""kaudat nukleus""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ MCA (MCA) sulama alanına uyan frontal, temporal, insula, parietal loblarında ve internal kapsul, kaudat nukleus düzeyinde geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut masif infarktüs saptanmıştır.","Bulgular: 
+Sağ MCA sulama alanında, insülar kortekste ve parietal lobda internal kapsül ve kaudat nükleus düzeyinde geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 132.442, ""hacim_mm3"": 132442.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal"", ""temporal"", ""insula""], ""atlas_derin"": [""kaudat nukleus"", ""bazal gangliyon""], ""adc_mean"": 6492.79, ""adc_median"": 6358.5199999999995, ""adc_min"": -2911.22, ""adc_max"": 33169.53, ""adc_std"": 5900.8, ""adc_p5"": 3992.79, ""adc_p95"": 11492.79, ""dwi_mean"": 3248.72, ""dwi_median"": 3209.14, ""dwi_std"": 1230.59, ""dwi_adc_oran"": 0.5004, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""temporal"", ""insula""], ""derin_gt"": [""kaudat nukleus"", ""bazal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan frontal, temporal, insula loblarında ve kaudat nukleus, bazal gangliyon düzeyinde geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut masif infarktüs saptanmıştır.","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan frontal, temporal, insula loblarında ve derin beyaz cevherde (kaudat nukleus, bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut masif infarktüs saptanmıştır."
+"{""hacim_cm3"": 0.597, ""hacim_mm3"": 597.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""pons""], ""adc_mean"": 5707.15, ""adc_median"": 5608.28, ""adc_min"": 578.22, ""adc_max"": 24079.43, ""adc_std"": 3378.58, ""adc_p5"": 3207.15, ""adc_p95"": 10707.15, ""dwi_mean"": 5527.43, ""dwi_median"": 5603.62, ""dwi_std"": 1106.97, ""dwi_adc_oran"": 0.9685, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""pons""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol pons düzeyinde yaklaşık 9 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol pons yerleşimli akut laküner infarkt saptanmıştır.","Bulgular: 
+Sol pons düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol pons yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 41.21, ""hacim_mm3"": 41515.43, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""parietal"", ""frontal""], ""atlas_derin"": [], ""adc_mean"": 6673.94, ""adc_median"": 5840.02, ""adc_min"": -9629.31, ""adc_max"": 26285.38, ""adc_std"": 3970.85, ""adc_p5"": 2541.73, ""adc_p95"": 15724.9, ""dwi_mean"": 3319.91, ""dwi_median"": 3223.9, ""dwi_std"": 976.19, ""dwi_adc_oran"": 0.49, ""spacing_mm"": [1.256, 1.173, 6.084], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen"", ""pons"", ""serebellum"", ""medulla""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": true}","Bulgular: 
+Sol kaudat nükleüs ve lentiform nükleüsteki, iç kapsülde, insülar kortekste ve temporal loblarda yaygın akut-iskemik difüzyon kısıtlamaları saptanmıştır. Ayrıca, sol parietal lobun central girus düzeyinde akut-iskemik difüzyon kısıtlamaları mevcuttur.
+
+Sonuç: 
+Bu bulgular akut-iskemik olayın varlığını düşündürmektedir. Dikkatli klinik değerlendirme ve ek tarama gerektirmektedir.","Bulgular: 
+Sol serebral hemisferde akut-subakut laküner infarkt ile uyumlu difüzyon kısıtlaması gösteren alanlar mevcuttur. Bu bulgular, sol serebral hemisferde akut-subakut laküner infarktın varlığını göstermektedir.
+
+Sonuç: 
+Sol serebral hemisferde akut-subakut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 16.09, ""hacim_mm3"": 16316.91, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 16381.75, ""adc_median"": 16264.77, ""adc_min"": -6223.07, ""adc_max"": 51124.09, ""adc_std"": 6491.68, ""adc_p5"": 8492.24, ""adc_p95"": 31599.8, ""dwi_mean"": 9571.71, ""dwi_median"": 8224.83, ""dwi_std"": 3742.14, ""dwi_adc_oran"": 0.54, ""spacing_mm"": [1.163, 1.143, 5.792], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol lateral frontal alana ait akut infarkt ile uyumlu difüzyon kısıtlamaları izlenmiştir. Bu bulgular, muhtemelen akut bir beyin infarktına işaret etmektedir.
+
+Sonuç: 
+Beyin infarktı şüphesi ile uyumlu bulgular görülmüştür. Klinik değerlendirme ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol frontal lobda akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, sol frontal lobda akut infarktın varlığını düşündürmektedir.
+
+Sonuç: 
+Sol frontal lobda akut infarkt şüphesi bulunmaktadır."
+"{""hacim_cm3"": 18.45, ""hacim_mm3"": 18450.0, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [""oksipital""], ""atlas_derin"": [""beyin sapi""], ""adc_mean"": 6100.55, ""adc_median"": 5800.44, ""adc_min"": -1200.33, ""adc_max"": 21000.22, ""adc_std"": 2980.11, ""adc_p5"": 2800.88, ""adc_p95"": 11500.66, ""dwi_mean"": 3800.44, ""dwi_median"": 3950.22, ""dwi_std"": 850.33, ""dwi_adc_oran"": 0.6229, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""bilateral"", ""lob_gt"": [""oksipital""], ""derin_gt"": [""mezensefalon""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": true, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Mezensefalonda paramedyan bölgede ve her iki oksipital lobun medial kesimlerinde akut iskemik difüzyon kısıtlamaları (top of the basilar sendromu paterni) izlenmektedir.
+
+Sonuç: 
+
+Bilateral oksipital loblar ve mezensefalik düzeyde akut infarktlar izlenmektedir. Vertebrobaziler sistem embolisi şüphesi bulunmaktadır.","Bulgular: 
+Bilateral PCA sulama alanına uyan oksipital loblarında ve mezensefalon düzeyinde multipl fokal akut iskemik difüzyon kısıtlaması odakları izlenmiştir. Bu bulgular, akut beyin damar hastalığı veya diğer akut beyin hastalıklarının bir sonucu olabilir.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 0.99, ""hacim_mm3"": 988.91, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [""temporal"", ""parietal""], ""atlas_derin"": [], ""adc_mean"": 4624.7, ""adc_median"": 4657.31, ""adc_min"": 2182.42, ""adc_max"": 10554.84, ""adc_std"": 1689.41, ""adc_p5"": 2862.01, ""adc_p95"": 8449.43, ""dwi_mean"": 1557.81, ""dwi_median"": 1340.32, ""dwi_std"": 504.08, ""dwi_adc_oran"": 0.33, ""spacing_mm"": [1.168, 1.158, 6.043], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+- Sağ posteriyor parietal bölgede akut iskemi-infarkt lehine difüzyon kısıtlama imaji mevcuttur. Bu bulgu, akut beyin damar hastalığı veya akut beyin infarktının olası bir belirtisidir.
+
+Sonuç: 
+- Olguya ait patolojik bulgular kısımda belirtilmiş olup klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Parieto-temporal bölgede akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Parieto-temporal bölgede akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 16.74, ""hacim_mm3"": 16740.44, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [""hipokampus"", ""talamus"", ""beyin sapi"", ""bazal gangliyon"", ""amigdala""], ""adc_mean"": 834.15, ""adc_median"": 727.0, ""adc_min"": 248.0, ""adc_max"": 3795.0, ""adc_std"": 474.88, ""adc_p5"": 450.0, ""adc_p95"": 1791.9, ""dwi_mean"": 127.53, ""dwi_median"": 128.0, ""dwi_std"": 31.72, ""dwi_adc_oran"": 0.1529, ""spacing_mm"": [0.557, 0.557, 7.4], ""goruntu_boyutu"": [384, 384, 22], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""oksipital"", ""insula""], ""derin_gt"": [""bazal gangliyon"", ""talamus"", ""internal kapsul"", ""kaudat nukleus"", ""lentiform nukleus"", ""putamen""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular:
+Beyin incelemesinde, posterior fossa kesitlerinde 4. ventrikülün orta hattaki genişliği normaldir. Serebellar hemisferlerin gri-beyaz cevher intensiteleri normaldir. Serebellar sulkuslar normal genişlikte ve serebral pedikller, tektal plaklar normaldir. Pons ve bulbus normaldir. Beyin sapı sisternaları açık. Supratentorial alanda, ventriküler sistem normal genişlik ve forma sahiptir. Sulkus ve girusların dağılımları normaldir. Bazal ganglionların sinyal intensiteleri normaldir. Kemik yapılar ve yumuşak doku planları normaldir. Sağ putamen-eksternal kapsul düzeyinde, subakut infarkt ile uyumlu difüzyon kısıtlığı gösteren bir odak izlenmiştir.
+
+Sonuç: 
+Beyin difüzyon MR'da sağ putamen-eksternal kapsul düzeyinde subakut infarkt ile uyumlu difüzyon kısıtlığı gösteren bir odak görülmektedir. Bu bulgu, olası bir subakut beyin infarktı düşüncesini ortaya koyabilir.","Bulgular: 
+Sağda lateral ventrikül komşuluğunda, internal kapsül düzeyinde, lentiform nükleus düzeyinde ve putamende subakut iskemi lehine difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağda lateral ventrikül komşuluğunda subakut laküner infarkt izlenmektedir."
+"{""hacim_cm3"": 17.383, ""hacim_mm3"": 17383.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""oksipital"", ""temporal""], ""atlas_derin"": [], ""adc_mean"": 6792.41, ""adc_median"": 6716.41, ""adc_min"": -1247.74, ""adc_max"": 20555.24, ""adc_std"": 2635.13, ""adc_p5"": 4292.41, ""adc_p95"": 11792.41, ""dwi_mean"": 4030.85, ""dwi_median"": 3977.23, ""dwi_std"": 1496.21, ""dwi_adc_oran"": 0.5934, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""oksipital"", ""temporal""], ""derin_gt"": [], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol posterior serebral arter (PCA) sulama alanında oksipital, temporal loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sol PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sol posterior serebral arter (PCA) sulama alanına uyan oksipital, temporal loblarında akut iskemik sürece sekonder fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+Sol PCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 46.675, ""hacim_mm3"": 46674.95, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""insula"", ""parietal"", ""frontal""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 11449.02, ""adc_median"": 8640.02, ""adc_min"": 867.95, ""adc_max"": 52379.95, ""adc_std"": 7488.09, ""adc_p5"": 5294.76, ""adc_p95"": 29667.38, ""dwi_mean"": 3521.83, ""dwi_median"": 3772.63, ""dwi_std"": 1011.84, ""dwi_adc_oran"": 0.3076, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 25], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol periventriküler alanda beyaz cevherde ve sol orta superior frontal girus düzeyinde kortekste dek yayılmış, difüzyon kısıtlaması ve ADC düşüklüğü gösteren akut infarkt alanı izlenmiştir.
+
+Sonuç: 
+Bu bulgular akut beyin infarktının varlığını düşündürmektedir. Dikkatli takip ve gerekli müdahalelerin planlanması gereklidir.","Bulgular: 
+Sol frontotemporal bölgede akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, sol frontotemporal bölgede akut infarktın varlığını düşündürmektedir.
+
+Sonuç: 
+Sol frontotemporal bölgede akut infarkt şüphesi bulunmaktadır."
+"{""hacim_cm3"": 0.772, ""hacim_mm3"": 772.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [""pons""], ""adc_mean"": 4791.95, ""adc_median"": 4685.33, ""adc_min"": -1493.7, ""adc_max"": 32608.01, ""adc_std"": 3929.48, ""adc_p5"": 2291.95, ""adc_p95"": 9791.95, ""dwi_mean"": 5526.56, ""dwi_median"": 5568.080000000001, ""dwi_std"": 1302.35, ""dwi_adc_oran"": 1.1533, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 28], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [], ""derin_gt"": [""pons""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ pons düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ pons yerleşimli akut laküner infarkt saptanmıştır.","Bulgular: 
+Sağ pons düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sağ pons yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 55.789, ""hacim_mm3"": 55789.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""parietal"", ""frontal"", ""insula""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 6229.67, ""adc_median"": 6090.32, ""adc_min"": -496.61, ""adc_max"": 23605.98, ""adc_std"": 2589.48, ""adc_p5"": 3729.67, ""adc_p95"": 11229.67, ""dwi_mean"": 3507.26, ""dwi_median"": 3461.59, ""dwi_std"": 1069.12, ""dwi_adc_oran"": 0.563, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""parietal"", ""frontal"", ""insula""], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan parietal, frontal, insula loblarında ve derin beyaz cevherde (bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+Sol MCA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sol MCA (MCA) sulama alanına uyan paramedyan parietal, frontal, insula loblarında ve derin beyaz cevherde (bazal gangliyon) geniş akut iskemik difüzyon kısıtlaması alanı izlenmiştir.
+
+Sonuç: 
+
+Sol MCA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 36.567, ""hacim_mm3"": 36566.78, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""insula"", ""frontal""], ""atlas_derin"": [""bazal gangliyon""], ""adc_mean"": 9378.15, ""adc_median"": 8534.56, ""adc_min"": 3923.28, ""adc_max"": 39763.44, ""adc_std"": 4137.0, ""adc_p5"": 6256.31, ""adc_p95"": 15682.81, ""dwi_mean"": 2475.9, ""dwi_median"": 2495.97, ""dwi_std"": 585.11, ""dwi_adc_oran"": 0.264, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""basal gangliyon""], ""derin_gt"": [""bazal gangliyon""], ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol bazal ganglionlar düzeyinde difüzyon kısıtlaması gösteren lezyon görüntüsü mevcuttur. Lezyon karakterizasyonu açısından kontrastlı Beyin MR ile ileri tetkiki önerilir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir.","Bulgular: 
+Sol bazal ganglionlar seviyesinde difüzyon kısıtlaması izlenmiştir. Bu bulgu, sol bazal ganglionlar seviyesinde difüzyon kısıtlamasının varlığını göstermektedir.
+
+Sonuç: 
+Sol bazal ganglionlar seviyesinde difüzyon kısıtlaması izlenmesinden, muhtemelen bir nörolojik sorun veya hastalığın varlığı düşünülmelidir. Düzenli takip ve daha detaylı tetkik gerektirmektedir."
+"{""hacim_cm3"": 1.245, ""hacim_mm3"": 1245.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [], ""atlas_derin"": [""talamus""], ""adc_mean"": 6120.88, ""adc_median"": 5980.45, ""adc_min"": 3200.11, ""adc_max"": 14050.22, ""adc_std"": 1150.34, ""adc_p5"": 4100.55, ""adc_p95"": 8200.77, ""dwi_mean"": 3100.22, ""dwi_median"": 3150.88, ""dwi_std"": 450.12, ""dwi_adc_oran"": 0.5065, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""lakuner"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [], ""derin_gt"": [""talamus""], ""damar_alani_gt"": ""lakuner"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol talamusta yaklaşık 1 cm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir. Diğer serebral ve serebellar parankim alanlarında patolojik difüzyon kısıtlaması saptanmadı.
+
+Sonuç: 
+
+Sol talamik akut laküner infarkt saptanmıştır. Klinik, fizik muayene ve laboratuvar verileri ile korelasyonu önerilir.","Bulgular: 
+Sol talamus düzeyinde yaklaşık 10 mm çapında, akut iskemi ile uyumlu fokal difüzyon kısıtlaması dikkati çekmektedir.
+
+Sonuç: 
+
+Sol talamus yerleşimli akut laküner infarkt saptanmıştır."
+"{""hacim_cm3"": 81.745, ""hacim_mm3"": 81745.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""frontal""], ""atlas_derin"": [""bazal gangliyon"", ""lentiform nukleus""], ""adc_mean"": 6489.78, ""adc_median"": 6472.34, ""adc_min"": -253.27, ""adc_max"": 27249.53, ""adc_std"": 4376.76, ""adc_p5"": 3989.78, ""adc_p95"": 11489.78, ""dwi_mean"": 4266.69, ""dwi_median"": 4336.15, ""dwi_std"": 589.67, ""dwi_adc_oran"": 0.6574, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""temporal"", ""frontal""], ""derin_gt"": [""bazal gangliyon"", ""lentiform nukleus""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": true, ""vazojenik_odem_gt"": true, ""artefakt_gt"": false}","Bulgular: 
+Sol MCA sulama alanında (temporal, frontal) izlenen geniş akut-subakut infarkt sahasında peteşiyel kanama odaklarına ait düşük sinyaller izlenmiştir. Lezyon periferinde belirgin vazojenik ödem tablosu ve kitle etkisi mevcuttur.
+
+Sonuç: 
+
+Sol MCA sulama alanında hemorajik transformasyon ve vazojenik ödem gösteren geniş infarkt izlenmektedir.","Bulgular: 
+Sol MCA sulama alanında (temporal, frontal) geniş akut-subakut infarkt sahasında peteşiyel kanama odaklarına ait düşük sinyaller izlenmiştir. Lezyon periferinde belirgin vazojenik ödem ve kitle etkisi mevcuttur.
+
+Sonuç: 
+
+Sol MCA sulama alanında hemorajik transformasyon ve vazojenik ödem gösteren geniş infarkt izlenmektedir."
+"{""hacim_cm3"": 7.69, ""hacim_mm3"": 7693.39, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 3706.22, ""adc_median"": 3448.72, ""adc_min"": 954.65, ""adc_max"": 17669.99, ""adc_std"": 1664.49, ""adc_p5"": 1971.29, ""adc_p95"": 6653.6, ""dwi_mean"": 1263.77, ""dwi_median"": 1251.26, ""dwi_std"": 288.09, ""dwi_adc_oran"": 0.32, ""spacing_mm"": [1.162, 1.184, 6.264], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""oksipital""], ""derin_gt"": [""internal kapsul"", ""lentiform nukleus"", ""basal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağda periventriküler ak madde de ve internal kapsul arka bacakta, ayrıca lentiform nükleus posteriöründe akut iskemik difüzyon kısıtlaması alanları mevcuttur. Sağ frontal lobe'da orta frontal girüstte ve anteriorda kortikal akut-iskemik difüzyon kısıtlamaları mevcuttur.
+
+Sonuç: 
+Beyin difüzyon MR incelemesinde akut iskemik difüzyon kısıtlamaları saptandı. Bu bulgular akut beyin damar hastalığı veya benzeri bir durumun varlığını düşündürmektedir.","Bulgular: 
+Sağ MCA sulama alanında, frontal ve occipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir. Internal kapsul, lentiform nukleus ve basal ganglion düzeylerinde akut-subakut infarkt alanı mevcuttur.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut iskemik difüzyon kısıtlaması ve akut-subakut infarkt alanı görüldüğü için hastanın yakın takip ve gerektiğinde acil tıbbi müdahale gerektiren bir durum olduğu düşünülmektedir."
+"{""hacim_cm3"": 44.15, ""hacim_mm3"": 44150.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""oksipital""], ""atlas_derin"": [""hipokampus""], ""adc_mean"": 6124.68, ""adc_median"": 5888.67, ""adc_min"": -1934.32, ""adc_max"": 23400.07, ""adc_std"": 4008.26, ""adc_p5"": 3624.68, ""adc_p95"": 11124.68, ""dwi_mean"": 5072.24, ""dwi_median"": 5082.99, ""dwi_std"": 661.86, ""dwi_adc_oran"": 0.8282, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""oksipital""], ""derin_gt"": [""hipokampus""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında, oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sağ PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağ PCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 90.819, ""hacim_mm3"": 90818.55, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""insula"", ""parietal"", ""frontal""], ""atlas_derin"": [], ""adc_mean"": 7207.13, ""adc_median"": 5495.43, ""adc_min"": -15221.11, ""adc_max"": 42307.24, ""adc_std"": 4942.91, ""adc_p5"": 3134.41, ""adc_p95"": 17617.27, ""dwi_mean"": 3422.23, ""dwi_median"": 3786.72, ""dwi_std"": 1380.4, ""dwi_adc_oran"": 0.4748, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Sağda frontal bölgede geniş difüzyon kısıtlaması sahası izlenmektedir, akut infarkt düşünülmektedir. 
+
+Sonuç: 
+Akut infarkt şüphesi olan bu hastada, MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: Sağ frontal lobda akut infarkt ile uyumlu difüzyon kısıtlaması izlenmiştir. Bu bulgu, akut beyin infarktının varlığını düşündürmektedir.
+
+Sonuç: 
+Akut beyin infarktı şüphesi ile hastanın klinik değerlendirilmesi ve laboratuvar sonuçlarının birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 8.28, ""hacim_mm3"": 8294.54, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""frontal""], ""atlas_derin"": [], ""adc_mean"": 3607.92, ""adc_median"": 3270.75, ""adc_min"": 920.59, ""adc_max"": 17684.2, ""adc_std"": 1661.81, ""adc_p5"": 2157.52, ""adc_p95"": 7194.41, ""dwi_mean"": 1251.86, ""dwi_median"": 1293.64, ""dwi_std"": 276.72, ""dwi_adc_oran"": 0.34, ""spacing_mm"": [1.253, 1.19, 6.199], ""goruntu_boyutu"": [192, 192, 26], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal"", ""oksipital""], ""derin_gt"": [""internal kapsul"", ""lentiform nukleus"", ""basal gangliyon""], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""akut-subakut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağda periventriküler ak madde de ve internal kapsul arka bacakta, ayrıca lentiform nükleus posteriöründe akut iskemik difüzyon kısıtlaması alanları mevcuttur. Sağ frontal lobe'da orta frontal girüstte ve anteriorda kortikal akut-iskemik difüzyon kısıtlamaları mevcuttur.
+
+Sonuç: 
+Beyin difüzyon MR incelemesinde akut iskemik difüzyon kısıtlamaları saptandı. Bu bulgular akut beyin damar hastalığı veya benzeri bir durumun varlığını düşündürmektedir.","Bulgular: 
+Sağ MCA sulama alanında, frontal ve occipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir. Internal kapsul, lentiform nukleus ve basal ganglion düzeylerinde akut infarkt alanı izlenmektedir.
+
+Sonuç: 
+
+Sağ MCA sulama alanında akut iskemik difüzyon kısıtlaması ve akut infarkt alanı görülmektedir. Hastanın klinik durumuna göre acil tetkik ve tedavi planlaması önerilir."
+"{""hacim_cm3"": 50.66, ""hacim_mm3"": 50660.28, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""parietal"", ""frontal"", ""temporal"", ""insula"", ""oksipital""], ""atlas_derin"": [], ""adc_mean"": 1008.73, ""adc_median"": 794.0, ""adc_min"": 0.0, ""adc_max"": 3852.0, ""adc_std"": 575.76, ""adc_p5"": 491.0, ""adc_p95"": 2261.0, ""dwi_mean"": 141.23, ""dwi_median"": 140.0, ""dwi_std"": 49.91, ""dwi_adc_oran"": 0.14, ""spacing_mm"": [0.557, 0.557, 7.4], ""goruntu_boyutu"": [384, 384, 23], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""insular"", ""frontal"", ""temporal"", ""parietal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol insülar lobe, frontal, temporal ve parietal lobe'de gri-beyaz cehve renginde geniş iskemi ile uyumlu difüzyon kısıtlama alanları görülmüştür. Diğer düzeylerde patolojik ADC değeri saptanmamıştır.
+
+Sonuç: 
+Görülen MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sol insülar lobda, frontal, temporal ve parietal loblarında kortikal-subkortikal akut iskemik difüzyon kısıtlaması alanları izlenmiştir. Bu bulgular, sol serebral hemisferde akut infarktüsün varlığını düşündürmektedir.
+
+Sonuç: 
+Sol serebral hemisferde akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 21.575, ""hacim_mm3"": 21575.0, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [""insula"", ""temporal""], ""atlas_derin"": [], ""adc_mean"": 14567.08, ""adc_median"": 14342.33, ""adc_min"": -2857.82, ""adc_max"": 43830.37, ""adc_std"": 3285.4, ""adc_p5"": 12067.08, ""adc_p95"": 19567.08, ""dwi_mean"": 1443.79, ""dwi_median"": 1576.99, ""dwi_std"": 1411.49, ""dwi_adc_oran"": 0.0991, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""bilateral"", ""lob_gt"": [""insula"", ""temporal""], ""derin_gt"": [], ""damar_alani_gt"": ""MCA"", ""donem_gt"": ""kronik"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Bilateral insula, temporal loblarında eski iskemik olaya sekonder ensefalomalazik değişiklikler (yüksek ADC, düşük DWI sinyali) izlenmektedir. Yeni gelişen akut iskemik süreç saptanmadı.
+
+Sonuç: 
+Bilateral serebral hemisferde kronik iskemik sekeller izlenmektedir.","Bulgular: 
+Bilateral insula ve temporal loblarında kronik infarkt ile uyumlu difüzyon kısıtlaması gösteren alanlar mevcuttur. Bu bulgular, beyin difüzyon MR incelemesinde görülen klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Beyin difüzyon MR bulgularının klinik bilgiler ve laboratuvar sonuçları ile birlikte değerlendirilmesi önerilir."
+"{""hacim_cm3"": 50.74, ""hacim_mm3"": 50511.63, ""lateralizasyon_img"": ""bilateral"", ""atlas_lob"": [""singulat"", ""parietal"", ""frontal"", ""oksipital""], ""atlas_derin"": [], ""adc_mean"": 8175.42, ""adc_median"": 6834.81, ""adc_min"": -18392.74, ""adc_max"": 61535.33, ""adc_std"": 5048.89, ""adc_p5"": 3112.16, ""adc_p95"": 17124.34, ""dwi_mean"": 5136.44, ""dwi_median"": 4981.84, ""dwi_std"": 1947.76, ""dwi_adc_oran"": 0.65, ""spacing_mm"": [1.182, 1.219, 6.112], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""parietal"", ""temporal"", ""insula""], ""derin_gt"": [""basal gangliyon"", ""eksternal kapsul""], ""damar_alani_gt"": null, ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol hemisferde insüller kortekste ve eksternal kapsülde, ayrıca sol parietal ve temporal loblarda, bunun haricinde frontal lobda geniş kortikal-subkortikal akut iskemik difüzyon kısıtlaması alanları izlenmiştir.
+
+Sonuç: 
+Radyolojik bulgular, akut iskemik difüzyon kısıtlaması alanlarının varlığını göstermektedir.","Bulgular: 
+Sol periventriküler beyaz cevherde ve eksternal kapsülün sol yarım küresinde kortikal-subkortikal akut iskemik difüzyon kısıtlaması alanı izlenmiştir. Bu bulgular, hastanın klinik durumunu ve laboratuvar sonuçlarını da içeren bir değerlendirme ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Olguya ait patolojiler bulgular kısmında belirtilmiştir. Klinik, fizik muayene ve laboratuvar verileri ile birlikte korelasyonu önerilir."
+"{""hacim_cm3"": 0.362, ""hacim_mm3"": 361.62, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [], ""atlas_derin"": [], ""adc_mean"": 7514.19, ""adc_median"": 7277.24, ""adc_min"": 4905.13, ""adc_max"": 15075.2, ""adc_std"": 2006.66, ""adc_p5"": 5248.67, ""adc_p95"": 10120.36, ""dwi_mean"": 2253.72, ""dwi_median"": 2317.64, ""dwi_std"": 485.17, ""dwi_adc_oran"": 0.2999, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 24], ""damar_tahmin"": null, ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""frontal""], ""derin_gt"": [""mezensefalon""], ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: Mezensefalonun sağ yarım küresinde patolojik difüzyon kısıtlaması izlenmiştir. Olguya ait patolojiler, klinik, fizik muayene ve laboratuvar verileri ile birlikte değerlendirilmelidir.
+
+Sonuç: 
+Mezensefalonun sağ yarım küresinde patolojik difüzyon kısıtlaması görüldüğü için hastanın klinik ve laboratuvar verileri ile birlikte değerlendirilmesi önerilir.","Bulgular: 
+Sağ frontal lobda ve mezensefalonda difüzyon kısıtlaması gösteren alanlar mevcuttur. Bu bulgular, olgunun patolojik durumunu göstermektedir.
+
+Sonuç: 
+Olguya ait patolojik bulgular klinik, fizik muayene ve laboratuvar verileri ile birlikte değerlendirilmelidir."
+"{""hacim_cm3"": 39.597, ""hacim_mm3"": 39597.0, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""singulat"", ""frontal""], ""atlas_derin"": [], ""adc_mean"": 5216.18, ""adc_median"": 5191.02, ""adc_min"": 1271.04, ""adc_max"": 30039.93, ""adc_std"": 2898.06, ""adc_p5"": 2716.18, ""adc_p95"": 10216.18, ""dwi_mean"": 4763.38, ""dwi_median"": 4724.99, ""dwi_std"": 1003.83, ""dwi_adc_oran"": 0.9132, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 30], ""damar_tahmin"": ""ACA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""singulat"", ""frontal""], ""derin_gt"": [], ""damar_alani_gt"": ""ACA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol anterior serebral arter (ACA) sulama alanına uyan paramedyan singulat, frontal lob bölgelerinde kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+Sol ACA sulama alanında akut infarktüs saptanmıştır.","Bulgular: 
+Sol anterior serebral arter (ACA) sulama alanına uyan paramedyan frontal lob ve singulat lob bölgelerinde kortikal-subkortikal akut iskemi lehine difüzyon kısıtlaması saptanmıştır.
+
+Sonuç: 
+Sol ACA sulama alanında akut infarktüs saptanmıştır."
+"{""hacim_cm3"": 11.914, ""hacim_mm3"": 11914.0, ""lateralizasyon_img"": ""sag"", ""atlas_lob"": [""oksipital""], ""atlas_derin"": [""mezensefalon""], ""adc_mean"": 4646.37, ""adc_median"": 4523.87, ""adc_min"": 1414.72, ""adc_max"": 27783.68, ""adc_std"": 3770.81, ""adc_p5"": 2146.37, ""adc_p95"": 9646.37, ""dwi_mean"": 5188.76, ""dwi_median"": 5326.01, ""dwi_std"": 1249.37, ""dwi_adc_oran"": 1.1167, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 30], ""damar_tahmin"": ""PCA"", ""normal"": false, ""lateralizasyon_gt"": ""sag"", ""lob_gt"": [""oksipital""], ""derin_gt"": [""mezensefalon""], ""damar_alani_gt"": ""PCA"", ""donem_gt"": ""akut"", ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında, oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+Sağ PCA sulama alanında akut infarkt izlenmektedir.","Bulgular: 
+Sağ posterior serebral arter (PCA) sulama alanında oksipital loblarında akut iskemik difüzyon kısıtlaması izlenmektedir.
+
+Sonuç: 
+
+Sağ PCA sulama alanında akut infarkt izlenmektedir."
+"{""hacim_cm3"": 42.137, ""hacim_mm3"": 42137.46, ""lateralizasyon_img"": ""sol"", ""atlas_lob"": [""temporal"", ""parietal"", ""frontal""], ""atlas_derin"": [], ""adc_mean"": 6018.09, ""adc_median"": 5822.34, ""adc_min"": -4034.38, ""adc_max"": 26889.19, ""adc_std"": 2811.37, ""adc_p5"": 2308.92, ""adc_p95"": 10461.56, ""dwi_mean"": 2740.3, ""dwi_median"": 2638.37, ""dwi_std"": 895.25, ""dwi_adc_oran"": 0.4553, ""spacing_mm"": [1.198, 1.198, 6.0], ""goruntu_boyutu"": [192, 192, 27], ""damar_tahmin"": ""MCA"", ""normal"": false, ""lateralizasyon_gt"": ""sol"", ""lob_gt"": [""frontal"", ""temporal""], ""derin_gt"": null, ""damar_alani_gt"": null, ""donem_gt"": null, ""multifokal_gt"": false, ""hemoraji_gt"": false, ""vazojenik_odem_gt"": false, ""artefakt_gt"": false}","Bulgular: 
+Sol serebral hemisferde geniş difüzyon kısıtlama odakları dikkati çekmiştir. Bu odaklar ağır bir şekilde fronto-temporal bölgeye yerleşmiştir.
+
+Sonuç: 
+Bu bulgular, sol serebral hemisferde potansiyel bir patolojik sürecin varlığını düşündürmektedir. Düzenli takip ve daha detaylı tetkik gerektirmektedir.","Bulgular: 
+Sol frontotemporal bölgede difüzyon kısıtlaması izlenmiştir. Bu bulgu, sol frontotemporal bölgede bir patolojik süreçin varlığını düşündürmektedir. Difüzyon kısıtlaması izlenen bölgede ADC haritalama için de değerlendirilmiştir. ADC haritalamada sol frontotemporal bölgede akut iskemiye ait difüzyon kısıtlaması izlenmiştir.
+
+Sonuç: 
+Sol frontotemporal bölgede akut iskemiye ait difüzyon kısıtlaması izlenmiştir."

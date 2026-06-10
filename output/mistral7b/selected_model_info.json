@@ -1,0 +1,8 @@
+{
+  "base_model_key": "mistral7b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--mistral-7b-instruct-v0.3-bnb-4bit",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--mistral-7b-instruct-v0.3-bnb-4bit\\snapshots\\d5f623888f1415cf89b5c208d09cb620694618ee",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\mistral7b"
+}

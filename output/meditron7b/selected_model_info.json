@@ -1,0 +1,8 @@
+{
+  "base_model_key": "meditron7b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--epfl-llm--meditron-7b",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--epfl-llm--meditron-7b\\snapshots\\d7d0a5ed929384a6b059ac74198cf1d71f44ba76",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\meditron7b"
+}

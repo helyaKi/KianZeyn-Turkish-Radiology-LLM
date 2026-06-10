@@ -1,0 +1,8 @@
+{
+  "base_model_key": "qwen3b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--Qwen2.5-3B-Instruct-bnb-4bit",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--Qwen2.5-3B-Instruct-bnb-4bit\\snapshots\\2672b588848527e456d320c11926c794539f47d5",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\qwen3b"
+}

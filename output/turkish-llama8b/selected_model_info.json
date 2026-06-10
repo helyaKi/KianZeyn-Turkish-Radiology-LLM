@@ -1,0 +1,8 @@
+{
+  "base_model_key": "turkish-llama8b",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--ytu-ce-cosmos--Turkish-Llama-8b-v0.1",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--ytu-ce-cosmos--Turkish-Llama-8b-v0.1\\snapshots\\8493b0c54fb98b35726dc9d500825d696c8cde4d",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\turkish-llama8b"
+}

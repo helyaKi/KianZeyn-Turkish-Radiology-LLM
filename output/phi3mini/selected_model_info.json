@@ -1,0 +1,8 @@
+{
+  "base_model_key": "phi3mini",
+  "model_cache_dir": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--Phi-3-mini-4k-instruct-bnb-4bit",
+  "selected_snapshot": "C:\\Users\\merve\\.cache\\huggingface\\hub\\models--unsloth--Phi-3-mini-4k-instruct-bnb-4bit\\snapshots\\81453e5718775630581ab9950e6c0ccf0d7a4177",
+  "dataset_path": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\dataset\\bitiyor_dataset.json",
+  "base_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output",
+  "model_output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\phi3mini"
+}

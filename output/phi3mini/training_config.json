@@ -1,0 +1,14 @@
+{
+  "base_model_key": "phi3mini",
+  "output_dir": "C:\\Users\\merve\\Desktop\\Merve\\stroke_fine_tuning\\output\\phi3mini",
+  "per_device_train_batch_size": 1,
+  "per_device_eval_batch_size": 1,
+  "gradient_accumulation_steps": 16,
+  "num_train_epochs": 3,
+  "learning_rate": 0.0002,
+  "max_seq_length": 2048,
+  "eval_steps": 10,
+  "logging_steps": 1,
+  "bf16": true,
+  "fp16": false
+}
