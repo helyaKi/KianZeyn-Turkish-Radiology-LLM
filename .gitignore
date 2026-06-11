@@ -76,8 +76,8 @@ unsloth_compiled_cache/
 # Project-specific ignored folders
 # ============================================================
 
-# Dataset çıktıları
-dataset/cleaned_dataset_outputs/
+# Dataset 
+dataset/
 
 # Dokümanlar
 dokumanlar/
