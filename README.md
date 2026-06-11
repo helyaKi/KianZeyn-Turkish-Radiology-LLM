@@ -32,6 +32,9 @@ STROKE_FINE_TUNING/
 ├── SON.py
 ├── .env
 ├── README.md
+├── Türkçe Radyoloji Raporu Üretimi_final.docx
+├── Türkçe Radyoloji Raporu Üretimi_final.pdf
+├── Türkçe Radyoloji Raporu Üretimi_final.pptx
 └── .gitignore
 ```
 
